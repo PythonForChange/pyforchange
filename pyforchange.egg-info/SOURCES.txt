@@ -1,6 +1,7 @@
 LICENCE.txt
 MANIFEST.in
 README.md
+README.rst
 setup.cfg
 setup.py
 pyforchange/__init__.py

@@ -9,10 +9,9 @@ setup(
   packages = ['pyforchange'], # this must be the same as the name above   
     include_package_data=True,    # muy importante para que se incluyan archivos sin extension .py
     version = '2.0.1',
-    description =README2,
-    description_content_type='text/markdown',
+    description ="pythonforchange.github.io",
     long_description=README2,
-    long_description_content_type='text/x-rst',
+    long_description_content_type='text/markdown',
     author = 'Python For Change',
     author_email = 'pythonforchange@gmail.com',
     license="MIT",
