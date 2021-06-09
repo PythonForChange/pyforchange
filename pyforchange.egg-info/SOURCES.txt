@@ -4,6 +4,8 @@ README.md
 setup.cfg
 setup.py
 pyforchange/__init__.py
+pyforchange/cell.py
+pyforchange/covidplot.py
 pyforchange/pfcf.py
 pyforchange.egg-info/PKG-INFO
 pyforchange.egg-info/SOURCES.txt

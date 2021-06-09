@@ -1,12 +1,12 @@
 Metadata-Version: 1.1
 Name: pyforchange
-Version: 0.1
+Version: 0.2
 Summary:  
 Home-page: https://github.com/PythonForChange/pyforchange
 Author: Python For Change
 Author-email: pythonforchange@gmail.com
 License: MIT
-Download-URL: https://github.com/PythonForChange/pyforchange/tarball/0.1
+Download-URL: https://github.com/PythonForChange/pyforchange/archive/refs/tags/v2.0.tar.gz
 Description:  :D 
 Keywords: testing,logging,example
 Platform: UNKNOWN
