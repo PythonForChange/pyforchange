@@ -1,0 +1,11 @@
+LICENCE.txt
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+pyforchange/__init__.py
+pyforchange/pfcf.py
+pyforchange.egg-info/PKG-INFO
+pyforchange.egg-info/SOURCES.txt
+pyforchange.egg-info/dependency_links.txt
+pyforchange.egg-info/top_level.txt
