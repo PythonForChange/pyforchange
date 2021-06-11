@@ -6,7 +6,9 @@ README2 = (HERE / 'README.rst').read_text()
 
 setup(
     name = 'pyforchange',
-    packages=find_packages(), 
+    packages=find_packages(),
+    install_requires=['os','pandas','json','math'],
+    python_requires='>=3',
     include_package_data=True,    # muy importante para que se incluyan archivos sin extension .py
     version = '2.0.3',
     description ="pythonforchange.github.io",
