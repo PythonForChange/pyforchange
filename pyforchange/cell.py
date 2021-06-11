@@ -7,7 +7,7 @@ class Cell():
     self.n=n
     self.adress=adress
     self.newname=self.name+"1"
-    t1="from cell import *\n"
+    t1="from pyforchange.cell import *\n"
     t2=self.newname+"=Cell(\""+self.newname+"\",\""+adress+"\","+str(self.count+1)+","+str(n)+")\n"
     t3="if "+self.newname+".count>="+str(n)+":\n"
     t4="\tclearall("+str(n)+","+self.newname+".adress)\n"
