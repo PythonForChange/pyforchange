@@ -1,5 +1,4 @@
 from pyforchange.pfcf.utils import *
-
 def settings(command: str,param):
   t=""
   if command=="host":

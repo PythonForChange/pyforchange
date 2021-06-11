@@ -7,7 +7,6 @@ def read(name: str,printYesOrNo: int =1,returnText: int =0):
   t=""
   code=""
   codel="" #code language
-  codel2=""
   m=0
   codem=0
   p=Parser()
@@ -31,16 +30,15 @@ def read(name: str,printYesOrNo: int =1,returnText: int =0):
       elif j=="<" or j==">":
         codem+=1
       elif codem==4:
-        if codel2==codel:
+        try:
           codef(codel,code)
           codem==0
           codel=""
-          codel2=""
-        else:
+          code=""
+        except:
           print("Sintax error")
       elif codem==3:
-        if j!="/":
-          codel2+=j
+        pass
       elif codem==2:
         code+=j
       elif codem==1: #Code mode on
