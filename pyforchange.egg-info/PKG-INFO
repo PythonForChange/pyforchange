@@ -1,99 +1,95 @@
 Metadata-Version: 2.1
 Name: pyforchange
-Version: 2.0.1
-Summary: Python For Change =================  Welcome to the community! -------------------------  Python For Change is a **open source** project. {: .fs-6 .fw-300 }  `Get started now <https://github.com/PythonForChange/pythonforchange.github.io>`__\ {: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } `View on Github <https://github.com/PythonForChange>`__\ {: .btn .fs-5 .mb-4 .mb-md-0 }  Our software ~~~~~~~~~~~~  -  `Covid Plot <https://pythonforchange.github.io/covidplot>`__ -  `Python For Change    FilesFormat <https://pythonforchange.github.io/filesformat>`__  Installation (last stable version) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  1. Install pyforchange     ::         pip install pyforchange  2. Import pyforchange in your python file     .. code:: python         import pyforchange  3. Enjoy!  Contributing ~~~~~~~~~~~~  Learn more about how to help others contribute, check out the `CONTRIBUTING GUIDELINES <https://pythonforchange.github.io/CodeOfConduct/>`__ for repository contributors.  Credits ~~~~~~~  -  **Emmanuel Norambuena** - *initial work* -    `Eanorambuena <https://github.com/eanorambuena>`__ -  **Community** - *contributing* -  **Andrés Villanueva** - *this web page is based on the README made by    him* - `Villanuevand <https://github.com/Villanuevand>`__ -  **Just the Docs** - *this site uses their documentation theme for    Jekyll* - `View in    Github <https://github.com/pmarsceill/just-the-docs>`__  License ~~~~~~~  This proyect is under the `MIT License <https://pythonforchange.github.io/license>`__.  Made with ~~~~~~~~~  -  `Python <https://www.python.org/>`__ - Programming language  Wiki ~~~~  You can find much more about how to use this project in our `Wiki <https://github.com/PythonForChange/pythonforchange.github.io/wiki>`__ 📖  Support or Contact ~~~~~~~~~~~~~~~~~~  Having trouble with Python For Change Software? Check out our `documentation <https://pythonforchange.github.io/>`__.  --------------  ⌨️ with ❤️ by `Eanorambuena <https://github.com/eanorambuena>`__ 😊 
+Version: 2.0.3
+Summary: pythonforchange.github.io
 Home-page: https://github.com/PythonForChange/pyforchange
 Author: Python For Change
 Author-email: pythonforchange@gmail.com
 License: MIT
-Download-URL: https://github.com/PythonForChange/pyforchange/archive/refs/tags/v2.0.1.tar.gz
+Download-URL: https://github.com/PythonForChange/pyforchange/archive/refs/tags/v2.0.3.tar.gz
 Description: Python For Change
         =================
         
         Welcome to the community!
         -------------------------
         
-        Python For Change is a **open source** project. {: .fs-6 .fw-300 }
+        Python For Change is a **open source** project.
         
-        `Get started
-        now <https://github.com/PythonForChange/pythonforchange.github.io>`__\ {:
-        .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } `View on
-        Github <https://github.com/PythonForChange>`__\ {: .btn .fs-5 .mb-4
-        .mb-md-0 }
+        [Get started
+        now](https://github.com/PythonForChange/pythonforchange.github.io)
         
-        Our software
-        ~~~~~~~~~~~~
+        [View on
+        Github](https://github.com/PythonForChange)
         
-        -  `Covid Plot <https://pythonforchange.github.io/covidplot>`__
-        -  `Python For Change
-           FilesFormat <https://pythonforchange.github.io/filesformat>`__
         
-        Installation (last stable version)
-        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+        ### Our software
         
-        1. Install pyforchange
+        - [Covid Plot](https://pythonforchange.github.io/covidplot)
+        - [Python For Change Format](https://pythonforchange.github.io/format)
+        - [Cell](https://pythonforchange.github.io/cell)
         
-           ::
+        ### Installation (last stable version)
         
-               pip install pyforchange
+        1.  Install pyforchange
         
-        2. Import pyforchange in your python file
+                pip install pyforchange
         
-           .. code:: python
+        2.  Import pyforchange in your python file
         
-               import pyforchange
+            ``` {.python}
+            import pyforchange
+            ```
         
-        3. Enjoy!
+        3.  Enjoy!
         
-        Contributing
-        ~~~~~~~~~~~~
+        ### Contributing
         
         Learn more about how to help others contribute, check out the
-        `CONTRIBUTING
-        GUIDELINES <https://pythonforchange.github.io/CodeOfConduct/>`__ for
+        [CONTRIBUTING
+        GUIDELINES](https://pythonforchange.github.io/CodeOfConduct/) for
         repository contributors.
         
-        Credits
-        ~~~~~~~
+        ### Credits
         
-        -  **Emmanuel Norambuena** - *initial work* -
-           `Eanorambuena <https://github.com/eanorambuena>`__
-        -  **Community** - *contributing*
-        -  **Andrés Villanueva** - *this web page is based on the README made by
-           him* - `Villanuevand <https://github.com/Villanuevand>`__
-        -  **Just the Docs** - *this site uses their documentation theme for
-           Jekyll* - `View in
-           Github <https://github.com/pmarsceill/just-the-docs>`__
+        -   **Emmanuel Norambuena** - *initial work* -
+            [Eanorambuena](https://github.com/eanorambuena)
+        -   **Community** - *contributing*
+        -   **Andrés Villanueva** - *this web page is based on the README made
+            by him* - [Villanuevand](https://github.com/Villanuevand)
+        -   **Just the Docs** - *this site uses their documentation theme for
+            Jekyll* - [View in
+            Github](https://github.com/pmarsceill/just-the-docs)
         
-        License
-        ~~~~~~~
+        ### License
         
-        This proyect is under the `MIT
-        License <https://pythonforchange.github.io/license>`__.
+        This proyect is under the [MIT
+        License](https://pythonforchange.github.io/license).
         
-        Made with
-        ~~~~~~~~~
+        ### Made with
         
-        -  `Python <https://www.python.org/>`__ - Programming language
+        -   [Python](https://www.python.org/) - Programming language
         
-        Wiki
-        ~~~~
+        ### Wiki
         
         You can find much more about how to use this project in our
-        `Wiki <https://github.com/PythonForChange/pythonforchange.github.io/wiki>`__
+        [Wiki](https://github.com/PythonForChange/pythonforchange.github.io/wiki)
         📖
         
-        Support or Contact
-        ~~~~~~~~~~~~~~~~~~
+        ### Support or Contact
         
         Having trouble with Python For Change Software? Check out our
-        `documentation <https://pythonforchange.github.io/>`__.
+        [documentation](https://pythonforchange.github.io/).
         
-        --------------
+        * * * * *
         
-        ⌨️ with ❤️ by `Eanorambuena <https://github.com/eanorambuena>`__ 😊
+        ⌨️ with ❤️ by [Eanorambuena](https://github.com/eanorambuena) 😊
         
-Keywords: testing,logging,example
+Keywords: covid,qiskit,language,plot,files
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
-Description-Content-Type: text/x-rst
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Text Processing :: Markup
+Description-Content-Type: text/markdown

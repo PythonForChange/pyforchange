@@ -18,5 +18,5 @@ setup(
     url = 'https://github.com/PythonForChange/pyforchange', # use the URL to the github repo
     download_url = 'https://github.com/PythonForChange/pyforchange/archive/refs/tags/v2.0.3.tar.gz',
     keywords = ['covid', 'qiskit', 'language', 'plot', 'files'],
-    classifiers = ['Programming Language :: Python :: 3','Intended Audience :: Developers','License :: OSI Approved :: MIT License','Natural Language :: English','Operating System :: OS Independent','Topic :: Text Processing :: Markup :: PFCF'],
+    classifiers = ['Programming Language :: Python :: 3','Intended Audience :: Developers','License :: OSI Approved :: MIT License','Natural Language :: English','Operating System :: OS Independent','Topic :: Text Processing :: Markup'],
     )
