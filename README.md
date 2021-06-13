@@ -44,9 +44,8 @@ repository contributors.
 
 -   **Emmanuel Norambuena** - *initial work* -
     [Eanorambuena](https://github.com/eanorambuena)
--   **Community** - *contributing*
--   **Andrés Villanueva** - *this web page is based on the README made
-    by him* - [Villanuevand](https://github.com/Villanuevand)
+-   **Héctor Costa** - *Pyfoch is based on his work (2015-2021 © Héctor Costa Guzmán (Licencia CC BY 4.)* - [View his webpage](https://docs.hektorprofe.net/python/interfaces-graficas-con-tkinter/editor-de-texto/)
+-   **Andrés Villanueva** - *this web page is based on the README made by him* - [Villanuevand](https://github.com/Villanuevand)
 -   **Just the Docs** - *this site uses their documentation theme for
     Jekyll* - [View in
     Github](https://github.com/pmarsceill/just-the-docs)
