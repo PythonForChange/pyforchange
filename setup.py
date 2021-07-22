@@ -1,8 +1,12 @@
 from setuptools import setup, find_packages
 import pathlib
 HERE = pathlib.Path(__file__).parent
-README1 = (HERE / 'README.md').read_text()
-README2 = (HERE / 'README.rst').read_text()
+filename=HERE/'README.md'
+f=open(filename, 'r', encoding="utf8", errors="ignore")
+README1=f.read()
+f.close()
+# README1 = (filename).read_text()
+# README2 = (HERE/'README.rst').read_text()
 
 setup(
     name = 'pyforchange',
@@ -14,7 +18,7 @@ setup(
     description ="pythonforchange.github.io",
     long_description=README1,
     long_description_content_type='text/markdown',
-    author = 'Python For Change',
+    author = 'Emmanuel Norambuena, Python For Change',
     author_email = 'pythonforchange@gmail.com',
     license="MIT",
     url = 'https://github.com/PythonForChange/pyforchange', # use the URL to the github repo

@@ -3,10 +3,10 @@ Name: pyforchange
 Version: 2.0.3
 Summary: pythonforchange.github.io
 Home-page: https://github.com/PythonForChange/pyforchange
-Author: Python For Change
+Author: Emmanuel Norambuena, Python For Change
 Author-email: pythonforchange@gmail.com
 License: MIT
-Download-URL: https://github.com/PythonForChange/pyforchange/archive/refs/tags/v2.0.3.tar.gz
+Download-URL: https://github.com/PythonForChange/pyforchange/archive/refs/tags/v2.1.0.tar.gz
 Description: Python For Change
         =================
         
@@ -53,9 +53,8 @@ Description: Python For Change
         
         -   **Emmanuel Norambuena** - *initial work* -
             [Eanorambuena](https://github.com/eanorambuena)
-        -   **Community** - *contributing*
-        -   **Andrés Villanueva** - *this web page is based on the README made
-            by him* - [Villanuevand](https://github.com/Villanuevand)
+        -   **Héctor Costa** - *Pyfoch is based on his work (2015-2021 © Héctor Costa Guzmán (Licencia CC BY 4.)* - [View his webpage](https://docs.hektorprofe.net/python/interfaces-graficas-con-tkinter/editor-de-texto/)
+        -   **Andrés Villanueva** - *this web page is based on the README made by him* - [Villanuevand](https://github.com/Villanuevand)
         -   **Just the Docs** - *this site uses their documentation theme for
             Jekyll* - [View in
             Github](https://github.com/pmarsceill/just-the-docs)
@@ -84,7 +83,7 @@ Description: Python For Change
         
         ⌨️ with ❤️ by [Eanorambuena](https://github.com/eanorambuena) 😊
         
-Keywords: covid,qiskit,language,plot,files
+Keywords: quantum,natural quantum script,nqs,pyforchange,console,covid,qiskit,language,plot,files
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: Intended Audience :: Developers
@@ -92,4 +91,5 @@ Classifier: License :: OSI Approved :: MIT License
 Classifier: Natural Language :: English
 Classifier: Operating System :: OS Independent
 Classifier: Topic :: Text Processing :: Markup
+Requires-Python: >=3
 Description-Content-Type: text/markdown

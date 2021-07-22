@@ -1,0 +1,9 @@
+pandas
+os
+time
+json
+math
+sys
+subprocess
+pip
+bs4
